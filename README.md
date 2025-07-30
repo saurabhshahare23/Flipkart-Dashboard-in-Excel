@@ -66,4 +66,4 @@ This project analyzes and visualizes mobile phone data from Flipkart using Excel
 ---
 
 ## 📬 Linkedin
-kedin.com/in/saurabh-shahare/
+linkedin.com/in/saurabh-shahare/
