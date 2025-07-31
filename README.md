@@ -37,7 +37,8 @@ This project analyzes and visualizes mobile phone data from Flipkart using Excel
 ---
 
 ## 📊 Preview
-<img width="1392" height="694" alt="Flipkar Excel Dashboard" src="https://github.com/user-attachments/assets/76f1c9aa-0e94-45c8-926b-9fb76561a035" />
+<img width="1632" height="704" alt="dashboard" src="https://github.com/user-attachments/assets/138b0720-ba5c-4a2f-b16d-cf086d836c92" />
+
 
 ---
 
